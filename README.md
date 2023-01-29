@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/PieterDePauw/PieterDePauw/raw/main/PHOTO_OF_ME.jpeg" alt="Picture of Pieter" width=300px height=300px />
 
 <p align="left">
-  "<bold>Hi, I'm Pieter!</bold>
+  "<strong>Hi, I'm Pieter!</strong>
 </p>
 <br>
 <p align="left">
